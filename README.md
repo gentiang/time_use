@@ -1,2 +1,2 @@
-# time_use
-A few graphs and an infographic on time use in Kosovo based on a labor force survey from 2017
+# Time Use Study
+This graphical analysis shows several graphs based on time use data from a survey conducted in Kosovo in 2017.
